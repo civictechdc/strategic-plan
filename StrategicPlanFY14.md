@@ -15,9 +15,11 @@ Our goals for this year are...
 
 FY 2013 achievements
 -------------
-* 
-
-
+* Established a community run data catalog for the Distict of Columbia (opendatadc.org)
+* Participated in the National Day of Civic Hacking
+* Reached our goal of 300 total members & average of 30 hacknight attendees
+* Hosted a Shutdown Hackathon for furloughed federal government employees
+* Submitted a report to the DC government as part of a request for public comments on Transparency and Open Government Initiative
 
 Priorities for 2014
 -------------
@@ -29,7 +31,6 @@ Priorities for 2014
 
 Strategy & Tactics
 -------------
-
 *Here is how we’re going to get there*
 
 Outcomes
